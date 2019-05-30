@@ -1,3 +1,4 @@
+//kurė Dominykas Rakūnas :D
 #include <bits/stdc++.h>
 
 using namespace std;
